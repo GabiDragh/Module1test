@@ -14,3 +14,10 @@ A footer with a copyright tag.
 ## Useful links
 
 HTML symbols https://www.w3schools.com/html/html_symbols.asp
+
+Free image https://www.freepik.com/free-photos-vectors/coming-soon-page
+<a href="https://www.freepik.com/free-vector/coming-soon-construction-hanging-text-background_24075671.htm#query=coming%20soon%20page&position=24&from_view=keyword&track=ais&uuid=22cb7b9d-a5a4-4abc-9a3d-f83dd73c2e8e">Image by starline</a> on Freepik
+
+Figcaption https://www.w3schools.com/tags/tag_figcaption.asp
+
+ No bullets list https://www.w3schools.com/howto/howto_css_list_without_bullets.asp
